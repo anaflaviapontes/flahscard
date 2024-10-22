@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(115, 235, 91);
-    font-family: Bai Jamjuree;
+    backgroundcolor: rgb(115, 235, 91);
+    familly: Bai Jamjuree;
 }
 
 #container {
-    display: flex; /* Elementos dispostos em linha */
+font: 1em sans-serif;display: flex; /* Elementos dispostos em linha */
 }
 
 .cartao {
