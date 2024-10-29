@@ -59,3 +59,6 @@
     <script src="perguntas.js"></script>
 </body>
 </html>
+function criaCartao(categoria, pergunta, resposta) {
+        let container 
+}
